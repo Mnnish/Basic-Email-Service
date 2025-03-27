@@ -46,7 +46,7 @@ Basic-Email-Service/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Basic-Email-Service.git
+git clone https://github.com/Mnnish/Basic-Email-Service.git
 cd Basic-Email-Service
 
 2️⃣ Configure Email Credentials
@@ -113,5 +113,5 @@ Feel free to fork this repository and submit pull requests. Suggestions and impr
 
 📬 Contact
 
-For queries, contact: your-email@example.com
+For queries, contact: your-mnnishkumbhare@gmail.com
 
